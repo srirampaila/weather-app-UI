@@ -12,22 +12,51 @@
 
 ## 🌐 Live Preview
 
-> [!NOTE]
-> The live deployment of the application is hosted at the link below.
+🚀 Live Demo: **Coming Soon**
 
-👉 **[Launch Atmos Weather Dashboard](https://your-deployment-url-here.vercel.app)** *(Placeholder)*
+Deployment platforms supported:
+
+- GitHub Pages
+- Vercel
+- Netlify
 
 ---
 
 ## 📸 Screenshots
 
-### Desktop View
-![Desktop Dashboard Mockup](https://raw.githubusercontent.com/username/repository/main/assets/desktop-preview.png) *(Placeholder)*
+### 🏠 Home Dashboard
 
-### Tablet & Mobile View
-| Tablet Layout | Mobile Portrait |
-| :---: | :---: |
-| ![Tablet Mockup](https://raw.githubusercontent.com/username/repository/main/assets/tablet-preview.png) *(Placeholder)* | ![Mobile Mockup](https://raw.githubusercontent.com/username/repository/main/assets/mobile-preview.png) *(Placeholder)* |
+![Home Dashboard](assets/screenshots/home.png)
+
+---
+
+### 🔍 City Search
+
+![City Search](assets/screenshots/search.png)
+
+---
+
+### 🌤️ Current Weather
+
+![Current Weather](assets/screenshots/current-weather.png)
+
+---
+
+### 📅 7-Day Forecast
+
+![Forecast](assets/screenshots/forecast.png)
+
+---
+
+### 🌙 Dark Mode
+
+![Dark Mode](assets/screenshots/dark-mode.png)
+
+---
+
+### 📱 Mobile Responsive
+
+![Mobile View](assets/screenshots/mobile.png)
 
 ---
 
