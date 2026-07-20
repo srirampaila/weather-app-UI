@@ -26,37 +26,37 @@ Deployment platforms supported:
 
 ### 🏠 Home Dashboard
 
-![Home Dashboard](assets/screenshots/home.png)
+![Home Dashboard](https://images.unsplash.com/photo-1601297183305-6df142704ea2?w=800&auto=format&fit=crop&q=60)
 
 ---
 
 ### 🔍 City Search
 
-![City Search](assets/screenshots/search.png)
+![City Search](https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=60)
 
 ---
 
 ### 🌤️ Current Weather
 
-![Current Weather](assets/screenshots/current-weather.png)
+![Current Weather](https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=800&auto=format&fit=crop&q=60)
 
 ---
 
 ### 📅 7-Day Forecast
 
-![Forecast](assets/screenshots/forecast.png)
+![Forecast](https://images.unsplash.com/photo-1530563885674-66db50a1af13?w=800&auto=format&fit=crop&q=60)
 
 ---
 
 ### 🌙 Dark Mode
 
-![Dark Mode](assets/screenshots/dark-mode.png)
+![Dark Mode](https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&auto=format&fit=crop&q=60)
 
 ---
 
 ### 📱 Mobile Responsive
 
-![Mobile View](assets/screenshots/mobile.png)
+![Mobile View](https://images.unsplash.com/photo-1526406915894-7bcd65f60845?w=800&auto=format&fit=crop&q=60)
 
 ---
 
